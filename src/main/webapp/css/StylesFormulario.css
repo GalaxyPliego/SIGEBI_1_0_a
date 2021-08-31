@@ -1,0 +1,18 @@
+body{
+    background-color: #f8f8f8;
+}
+.navegador{
+    background-color: #345177;
+    color: white;
+}
+.acronimoNav{
+    width: 100px;
+}
+
+.nav-link{
+    color:white !important;
+}
+
+li > a:focus, a:hover{
+    color: rgba(112, 115, 114, 1) !important;
+}

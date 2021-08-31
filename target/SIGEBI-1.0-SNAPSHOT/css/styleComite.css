@@ -1,0 +1,43 @@
+.nav-link{
+    color:white !important;
+}
+
+li > a:focus, a:hover{
+    color: rgba(112, 115, 114, 1) !important;
+}
+.navegador{
+    background-color: #345177;
+    color: white;
+}
+.acronimoNav{
+    width: 100px;
+}
+
+.imagen{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cabecerasRegistro{
+    background-color: rgb(0, 171, 131);
+    text-align: center;
+    color: white;
+
+}
+.stilo{
+    background-color:  rgb(0, 171, 131) ;
+    color: white;
+}
+.card-font{
+    background-color: #707372;
+    color: white;
+}
+.card-tipo{
+    background-color: #1E2D50;
+    color: white;
+}
+.hola{
+    border-color:c;
+    margin-top: 2%;
+}

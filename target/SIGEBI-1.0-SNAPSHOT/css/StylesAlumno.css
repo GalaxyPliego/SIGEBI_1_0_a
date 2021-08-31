@@ -1,0 +1,44 @@
+
+body{
+    background-color: red/*#f8f8f8*/;
+}
+.navegador{
+    background-color: #345177;
+    color: white;
+}
+.acronimoNav{
+    width: 100px;
+}
+
+.nav-link{
+    color:white !important;
+}
+
+li > a:focus, a:hover{
+    color: rgba(112, 115, 114, 1) !important;
+}
+.contenido{
+    margin-top: 5%;
+}
+.identificador{
+    width: 50%;
+}
+
+.convocatorias{
+    margin-top: 20px;
+}
+
+.img-card{
+    margin-top: 17px;
+    width: 250px;
+}
+
+.btn-azul{
+    background-color: #2874a6;
+    color: white;
+}
+
+.btn-azul:hover{
+    background-color: #21618c ;
+    color: white;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: #f8f8f8;
+}
+.navegador{
+    background-color: #345177;
+    color: white;
+}
+.acronimoNav{
+    width: 100px;
+    margin-left: 25px;
+}
+.contenido{
+    margin-top: 5%;
+}
+.identificador{
+    width: 50%;
+}
+.contenidoRegistro{
+    margin-top: 2%;
+    background-color: white;
+    //border-color:c;
+}
+.cabecerasRegistro{
+    background-color: rgb(0, 171, 131);
+    text-align: center;
+    color: white;
+}
